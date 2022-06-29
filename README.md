@@ -1,2 +1,3 @@
-# deploy-contract
-deploying simple contract in goerli using truffle
+# deploy-contract using abi and bytecode
+deploying simple contract in goerli using web3
+
